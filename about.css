@@ -1,0 +1,155 @@
+body, ul, li {
+    margin:0;
+    list-style:none;
+  }
+  
+  
+  a { 
+    text-decoration:none;
+    color:inherit;
+  }
+  
+  
+  
+  /*nomal end*/
+  
+  .flex { 
+    display:flex;
+  }
+  
+  
+  .cell { 
+    float:left;
+  }
+  
+  /**/
+  
+  
+  /*메뉴바 시작*/
+  
+  .menu-bar { 
+    position:absolute;
+    top:0;
+    width:100%;
+    margin-top:50px;
+  
+  }
+  
+  
+  
+   /*메뉴바 시작*/
+  
+   .menu-bar { 
+    position:absolute;
+    top:0;
+    width:100%;
+    margin-top:50px;
+  }
+  
+  .site-wrap { 
+    position:relative;
+  }
+  
+  
+  .menu-bar a { 
+    padding:30px;
+    font-size:20px;
+  }
+  
+  .row { 
+    width:1500px;
+    float:right;
+    height:30px;
+    margin-right:10%;
+  
+    
+  } 
+  
+  .menu-bar__row{
+     width:600px;
+     float:right;
+     
+  }
+ 
+
+.logo{
+ 
+    float:left;
+    margin-top:-10px;
+}
+  .logo img { 
+      width:50px;
+  }
+  
+  .popup-2 { 
+  
+  width:100%;
+  height:100vh;
+  }
+  
+  /* 팝업2 효과*/
+  .main > img { 
+  margin:0 auto;
+    display:block;
+    width:600px;
+  }
+  
+  .popup-2 {
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    z-index:100;
+    opacity:0;
+    visibility:hidden;
+  }
+  
+  .popup-2-actived .popup-2 {
+    opacity:1;
+    visibility:visible;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  
+  .popup-2 > .main > img {
+    position:relative;
+  }
+  
+  /*프로필*/
+  
+  .intro {
+    margin:0 auto;
+    border:1px solid red;
+    display:block;
+  }
+  
+  
+  .intro .img-box img{
+    width:1100px;
+    display:block;
+    margin:200px auto;
+    
+  }
+  
+  
+  .white-background { 
+  background-color:white;
+  width:1200%;
+  height:1000px;
+  position:absolute;
+    top:0;
+    left:0;
+  border:1px solid;
+    
+  }
+  
+  .about{
+    position:relative;
+  }
+  
+  .main > img { 
+  position:absolute;
+  }
+  
