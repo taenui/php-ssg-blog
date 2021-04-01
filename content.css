@@ -164,7 +164,8 @@ body {
   font-size: 15px;
   color: #d4d3d3;
   font-style: normal;
-  display: inline-block vertical-align: middle;
+  display: inline-block;
+  vertical-align: middle;
   font-weight: 900;
 }
 
@@ -179,20 +180,24 @@ body {
   font-size: 15px;
   color: #d4d3d3;
   font-style: normal;
-  display: inline-block vertical-align: middle;
-  font-weight: 900;
+  display: inline-block;
+  vertical-align: middle;
+  font-weight:900;
 }
 
+
+
 .hero-slider .swiper-pagination-bullet {
-  width: 12px;
-  height: 12px;
-  text-align: left;
+  width: 10px;
+  height: 10px;
+  text-align: right;
   line-height: 12px;
   font-size: 12px;
   color: #000;
   opacity: 0.3;
   background: #fff;
   transition: all .2s ease;
+  border:1px solid red;
 }
 
 .hero-slider .swiper-pagination-bullet-active {
@@ -205,19 +210,21 @@ body {
   bottom: 30px;
 }
 
-.swiper-pagination {
-  text-align: left;
-}
+
 
 .hero-slider .swiper-container-horizontal>.swiper-pagination-bullets {
   bottom: 50px;
-  max-width: 1200px;
+  width:300px;
   padding: 0 15px;
   margin: 0 auto;
-  left: 50%;
+  
   transform: translateX(-50%);
+  border:1px solid red;
+  margin-left:50%;
 }
-
+.hero-slider .swiper-container-horizontal>.swiper-pagination-bullets > span { 
+margin-left: 25px;
+}
 /*--------------------------------------------------------------
     #hero-style
   --------------------------------------------------------------*/
@@ -233,7 +240,7 @@ body {
   max-width: 690px;
 }
 
-. .hero-style .slide-btns>a:first-child {
+.hero-style .slide-btns>a:first-child {
   margin-right: 10px;
 }
 
@@ -252,8 +259,8 @@ body {
 
 .slide-btns {
   position: absolute;
-  left: 250px;
-  bottom: 250px;
+  left: 205px;
+  bottom: 270px;
 }
 
 
@@ -261,10 +268,10 @@ body {
 
 .slide-btnss {
 
-  width: 200px;
+  width: 180px;
   position: absolute;
-  right: 470px;
-  bottom: 215px;
+  right: 360px;
+  bottom: 245px;
 
 }
 
@@ -333,4 +340,15 @@ i.fa-chevron-circle-right {
 
 a:hover {
   text-decoration: none;
+}
+
+
+
+/*지도네비게이션 파트*/
+.hero-slider { 
+  position: relative;
+}
+.map {
+  position: absolute;
+  top:0;
 }
