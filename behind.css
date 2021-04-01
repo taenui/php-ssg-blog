@@ -1,0 +1,82 @@
+body, ul, li {
+    margin:0;
+    list-style:none;
+  }
+  
+  
+  a { 
+    text-decoration:none;
+    color:inherit;
+  }
+  
+  
+  
+  /*nomal end*/
+  
+  .flex { 
+    display:flex;
+  }
+  
+  
+  .cell { 
+    float:left;
+  }
+  
+  /**/
+  
+  
+  /*메뉴바 시작*/
+  
+  .menu-bar { 
+    position:absolute;
+    top:0;
+    width:100%;
+    margin-top:50px;
+  
+  }
+  
+  
+  
+   /*메뉴바 시작*/
+  
+   .menu-bar { 
+    position:absolute;
+    top:0;
+    width:100%;
+    margin-top:50px;
+  }
+  
+  .site-wrap { 
+    position:relative;
+  }
+  
+  
+  .menu-bar a { 
+    padding:30px;
+    font-size:20px;
+  }
+  
+  .row { 
+    width:1500px;
+    float:right;
+    height:30px;
+    margin-right:10%;
+  
+    
+  } 
+  
+  .menu-bar__row{
+     width:600px;
+     float:right;
+     
+  }
+ 
+
+.logo{
+ 
+    float:left;
+    margin-top:-10px;
+}
+  .logo img { 
+      width:50px;
+  }
