@@ -31,7 +31,6 @@ body {
 
 
 
-
 /*메뉴바 시작*/
 
 .menu-bar {
@@ -71,6 +70,35 @@ body {
 .logo>img {
   width: 50px;
 }
+
+
+
+
+.site-wrap {
+  position: relative;
+}
+
+
+.menu-bar a {
+  padding: 30px;
+  font-size: 20px;
+}
+
+.row {
+  width: 1400px;
+  margin: 0 auto;
+  height: 30px;
+  margin-bottom: 2%;
+ 
+}
+
+.menu-bar__row {
+  width: 600px;
+  float: right;
+
+}
+
+
 
 
 

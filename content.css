@@ -22,13 +22,17 @@ a {
 
 
 
+body {
+  margin: 0 auto;
+  overflow-x: hidden;
+  width: 1300px;
+  height: 700px;
+}
 
 /*메뉴바 시작*/
 
 .menu-bar {
-
   top: 0;
-
   width: 100%;
   margin-top: 50px;
 }
@@ -38,7 +42,7 @@ a {
 }
 
 
-.menu-bar a {
+.menu-bar__row a {
   padding: 30px;
   font-size: 20px;
 }
@@ -60,13 +64,11 @@ a {
   float: left;
 }
 
-.logo>img {
+.logo a > img {
   width: 50px;
 }
 
 
-
-/*메뉴바끝*/
 
 :after,
 :before,
@@ -82,12 +84,6 @@ a {
   margin-left: auto;
 }
 
-body {
-  margin: 0 auto;
-  overflow-x: hidden;
-  width: 1300px;
-  height: 700px;
-}
 
 .hero-slider {
 
@@ -350,5 +346,7 @@ a:hover {
 }
 .map {
   position: absolute;
-  top:0;
+  bottom:0;
+  left: 50%;
+  transform: translateX(-50%);
 }
