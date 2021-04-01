@@ -73,31 +73,6 @@ body {
 
 
 
-
-.site-wrap {
-  position: relative;
-}
-
-
-.menu-bar a {
-  padding: 30px;
-  font-size: 20px;
-}
-
-.row {
-  width: 1400px;
-  margin: 0 auto;
-  height: 30px;
-  margin-bottom: 2%;
-  border: 1px solid red;
-}
-
-.menu-bar__row {
-  width: 600px;
-  float: right;
-
-}
-
 /*메뉴바끝*/
 
 
