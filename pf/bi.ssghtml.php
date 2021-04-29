@@ -36,7 +36,7 @@ $pageCode = "be";
 			</div>
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://github.com/taenui/Sites/blob/main/pf/img/behind/coding.png?raw=true">
+					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/coding.png">
 						<div class="inner">
 							<p></p>
               <span>코딩</span>
