@@ -1,35 +1,35 @@
 /*nomal start*/
 
 * {
-  padding: 0;
-  margin: 0;
-  outline: 0;
-  border: 0;
-  box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    border: 0;
+    box-sizing: border-box;
 }
 
 body,
 ul,
 li {
-  margin: 0;
-  list-style: none;
+    margin: 0;
+    list-style: none;
 }
 
 a {
-  text-decoration: none;
-  color: inherit;
+    text-decoration: none;
+    color: inherit;
 }
 
 /*nomal end*/
 
 /* util start */
 .flex {
-  display: flex;
+    display: flex;
 }
 
 
 .cell {
-  float: left;
+    float: left;
 }
 
 
@@ -39,44 +39,44 @@ a {
 
 /*메뉴바 시작*/
 .menu-bar {
-  position: absolute;
-  top: 0;
-  color: black;
-  width: 100%;
-  margin-top: 100px;
-  z-index: 10;
+    position: absolute;
+    top: 0;
+    color: black;
+    width: 100%;
+    margin-top: 100px;
+    z-index: 10;
 }
 
 .site-wrap {
-  position: relative;
+    position: relative;
 }
 
 .menu-bar a {
-  padding: 30px;
-  font-size: 20px;
+    padding: 30px;
+    font-size: 20px;
 }
 
 .menu-bar__row{
-width:600px;
-float:right;
+ width:600px;
+ float:right;
 }
 
 .menu-bar__row > li.active > a {
-  color:red;
+    color:red;
 }
 
 .row {
-width:1200px;
-  height: 30px;
-  margin-right: 100px;
-margin:0 auto;
+  width:1200px;
+    height: 30px;
+    margin-right: 100px;
+  margin:0 auto;
 }
 
 .logo img {
-  width: 60px;
+    width: 60px;
 }
 
 .logo { 
-  float:left;
-  margin-top:-35px;
+    float:left;
+    margin-top:-35px;
 }
