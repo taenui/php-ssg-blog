@@ -1,0 +1,82 @@
+.menu-bar__row>li>a {
+    color:black;
+}
+
+.menu-bar__row>li.active>a {
+    color: red;
+}
+
+.popup-2 {
+
+    width: 100%;
+    height: 100vh;
+}
+
+/* 팝업2 효과*/
+.main>img {
+    margin: 0 auto;
+    display: block;
+    width: 600px;
+}
+
+.popup-2 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.popup-2-actived .popup-2 {
+    opacity: 1;
+    visibility: visible;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-2>.main>img {
+    position: relative;
+}
+
+/*프로필*/
+
+.intro {
+    margin: 0 auto;
+    display: block;
+}
+
+.intro .img-box {
+    border: 1px solid red;
+}
+
+.intro .img-box img {
+    width: 1100px;
+    display: block;
+    margin: 200px auto;
+
+}
+
+
+.white-background {
+    background-color: white;
+    width: 1200%;
+    height: 1000px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid;
+
+}
+
+.about {
+    position: relative;
+}
+
+.main>img {
+    position: absolute;
+}
+
