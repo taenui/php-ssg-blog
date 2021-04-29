@@ -175,6 +175,7 @@ s
     font-size: 18px;
     margin-top: -100px;
     padding:2px 8px;
+    border:1px solid;
 }
 
 @media screen and (max-width: 64rem) {
