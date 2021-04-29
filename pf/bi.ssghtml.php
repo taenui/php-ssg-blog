@@ -51,7 +51,7 @@ $pageCode = "be";
 			</div>
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/Sites/pf/img/behind/cording2.png)">
+					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/cording2.png)">
 						<div class="inner">
 							<p></p>
               <span>사이트 코딩모작</span>
