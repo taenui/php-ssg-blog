@@ -1,0 +1,101 @@
+body,
+ul,
+li {
+  margin: 0;
+  list-style: none;
+}
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.flex {
+  display: flex;
+}
+
+
+.cell {
+  float: left;
+}
+
+
+
+body {
+  margin: 0 auto;
+  overflow-x: hidden;
+  width: 1300px;
+  height: 700px;
+}
+
+
+
+/*메뉴바 시작*/
+
+.menu-bar {
+  top: 0;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.site-wrap {
+  position: relative;
+}
+
+
+.menu-bar a {
+  padding: 30px;
+  font-size: 20px;
+}
+
+.row {
+  width: 1400px;
+  margin: 0 auto;
+  height: 30px;
+  margin-bottom: 2%;
+  border: 1px solid red;
+}
+
+.menu-bar__row {
+  width: 600px;
+  float: right;
+
+}
+
+.logo {
+  float: left;
+}
+
+.logo>img {
+  width: 50px;
+}
+
+
+
+
+.site-wrap {
+  position: relative;
+}
+
+
+.menu-bar a {
+  padding: 30px;
+  font-size: 20px;
+}
+
+.row {
+  width: 1400px;
+  margin: 0 auto;
+  height: 30px;
+  margin-bottom: 2%;
+  border: 1px solid red;
+}
+
+.menu-bar__row {
+  width: 600px;
+  float: right;
+
+}
+
+/*메뉴바끝*/
