@@ -3,8 +3,8 @@ require_once "data.php";
 require_once "head.php";
 $articles = &getArticles();
 ?>
-<link rel="stylesheet" href="css/common.css">
-<script src="js/common.js" defer></script>
+<link rel="stylesheet" href="/css/common.css">
+<script src="/js/common.js" defer></script>
 
 
 <div class="test">
