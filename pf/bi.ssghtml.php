@@ -21,7 +21,7 @@ $pageCode = "be";
   <div class="cols">
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/Sites/pf/img/behind/award.jpg)">
+					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/award.jpg)">
 						<div class="inner">
 							<p></p>
               <span>NCS 능력 이수</span>
