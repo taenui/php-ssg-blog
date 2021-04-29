@@ -66,7 +66,7 @@ $pageCode = "be";
 			</div>
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/Sites/pf/img/behind/leather.JPG">
+					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/leather.JPG">
 						<div class="inner">
 							<p></p>
               <span>취미생활</span>
