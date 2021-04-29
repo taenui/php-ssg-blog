@@ -13,7 +13,7 @@ $pageCode = "be";
 
 <div class="site-wrap">
         <div class="sections">
-            <div class="section section-1"><img src="https://cdn.jsdelivr.net/gh/taenui/Sites/pf/img/behind/background.jpg" alt=""></div>
+            <div class="section section-1"><img src="https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/background.jpg" alt=""></div>
 
 
 <div class="wrapper">
@@ -81,7 +81,7 @@ $pageCode = "be";
 			</div>
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://github.com/taenui/Sites/blob/main/pf/img/behind/experience.JPG?raw=true/506/506/">
+					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/experience.JPG">
 						<div class="inner">
 							<p></p>
               <span>미국, 호주에서의 경험</span>
