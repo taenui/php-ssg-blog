@@ -59,7 +59,7 @@ $pageCode = "be";
 					</div>
 					<div class="back" >
 						<div class="inner">
-							<p>10개 이상dml 사이트 부분모작 홈페이지 모작을 통하여 코딩연습을 하였습니다. <br><br><a href="https://to2.kr/bCR" style="text-decoration:underline;">Click</a></p>
+							<p>10개 이상의 사이트 부분모작 홈페이지 모작을 통하여 코딩연습을 하였습니다. <br><br><a href="https://to2.kr/bCR" style="text-decoration:underline;">Click</a></p>
 						</div>
 					</div>
 				</div>
