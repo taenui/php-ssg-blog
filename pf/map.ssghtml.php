@@ -13,7 +13,9 @@ $pageCode = "map";
 
 
 
-<div class="logo"><a href="index.ssghtml.php"><img src="https://cdn.jsdelivr.net/gh/taenui/pofol/logo-white.png" alt=""></a></div>
+<div class="section">
+ <div class="logo"><a href="index.ssghtml.php"><img src="https://cdn.jsdelivr.net/gh/taenui/pofol/logo.png" alt=""></a></div>
+</div>
 
 <section class="hero-slider hero-style">
 

@@ -1,14 +1,15 @@
-body,
-ul,
-li {
-    margin: 0;
-    list-style: none;
+.section {
+    position: relative;
+    border: 1px solid blue;
+    height: 150px;
+    width: 100%;
 }
 
-
-a {
-    text-decoration: none;
-    color: inherit;
+.logo {
+    position: absolute;
+    top: 120px;
+    left: 330px;
+    border: 1px solid red;
 }
 
 
