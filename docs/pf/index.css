@@ -2,13 +2,6 @@
 
 
 
-.logo{
-    border
-}
-
-
-
-
 .popup-1-actived .sections {
     transition: filter 1s;
     filter: blur(5px);
@@ -103,4 +96,8 @@ img {
     width:100%;
     margin:0 auto;
     display: block;
+}
+
+.menu-bar__row>li>a {
+    color: white;
 }

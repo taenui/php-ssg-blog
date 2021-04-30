@@ -17,16 +17,6 @@ h1 {
 }
 
 
-.section {
-    position: relative;
-}
-
-.logo {
-    position: absolute;
-    top: 120px;
-    left: 330px;
-}
-
 /*전광판*/
 .wrapper {
     width: 90%;
@@ -202,4 +192,11 @@ h1 {
 
 .menu-bar__row>li>a {
     color: white;
+}
+
+
+img {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
 }
