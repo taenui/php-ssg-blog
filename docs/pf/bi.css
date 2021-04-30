@@ -83,7 +83,7 @@ h1 {
     height: 100%;
     content: '';
     display: block;
-    opacity: ;
+    
     background-color:;
     backface-visibility: hidden;
     border-radius: 10px;
@@ -153,20 +153,6 @@ s
 }
 
 
-/*가운데 선*/
-.front .inner p:{
-    content: '';
-    width: 4rem;
-    height: 2px;
-    position: absolute;
-    background: red;
-    display: block;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
-    bottom: -.15rem;
-}
-
 .front .inner span {
     color:black;
     background-color: white;
@@ -200,4 +186,9 @@ s
 
 .site-wrap {
     position: relative;
+}
+
+
+.menu-bar__row > li > a {
+    color: white;
 }
