@@ -434,6 +434,14 @@ body, ul , li {
     position:absolute;
     background-color: red;
   }
+
+
+  .video video {
+      position: absolute;
+      left: 50%;
+      transform:translateX(-50%);
+      top:100px;
+  }
   
   /*last-part*/
   
