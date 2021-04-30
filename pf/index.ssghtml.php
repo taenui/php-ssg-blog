@@ -6,6 +6,8 @@ $pageCode = "home";
 <link rel="stylesheet" href="index1.css">
 <script src="index.js" defer></script>
 
+<div class="logo"><a href="index.ssghtml.php"><img src="https://cdn.jsdelivr.net/gh/taenui/pofol/logo-white.png" alt=""></a></div>
+
 
 <div class="popup popup-1">
         <div class="main">

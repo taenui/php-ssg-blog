@@ -10,7 +10,7 @@ $pageCode = "about";
 <link rel="stylesheet" href="about.css">
 <script src="about.js" defer></script>
 
-
+<div class="logo"><a href="index.ssghtml.php"><img src="https://cdn.jsdelivr.net/gh/taenui/pofol/logo.png" alt=""></a></div>
 
 <div class="popup popup-2">
           <div class="main">

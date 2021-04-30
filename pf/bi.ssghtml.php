@@ -10,6 +10,8 @@ $pageCode = "be";
 <link rel="stylesheet" href="bi.css">
 <script src="bi.js" defer></script>
 
+<div class="logo"><a href="index.ssghtml.php"><img src="https://cdn.jsdelivr.net/gh/taenui/pofol/logo-white.png" alt=""></a></div>
+
 
 <div class="site-wrap">
         <div class="sections">
