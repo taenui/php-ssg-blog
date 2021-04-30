@@ -19,7 +19,7 @@
             <div class="menu">
                 <div class="menu-bar">
                     <div class="row">
-                         
+                          <div class="logo"><a href="index.ssghtml.php"><img src="https://github.com/taenui/php-ssg-blog/blob/master/pf/img/home/whole-logo.png?raw=true" alt=""></a></div>
                         <ul class="menu-bar__row">
                             <li class="cell <?=$pageCode == 'home' ? 'active' : ''?>"><a href="index.ssghtml.php">Home</a></li>
                             <li class="cell <?=$pageCode == 'about' ? 'active' : ''?>"><a href="about.ssghtml.php">About Artist</a></li>
