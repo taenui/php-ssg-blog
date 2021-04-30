@@ -1,0 +1,367 @@
+body, ul , li { 
+    list-style:none;
+    padding:0;
+    margin:0;
+  }
+  
+  a{
+    text-decoration:none;
+    color:inherit;
+  }
+  
+  body,html { 
+    overflow-x:hidden;
+    height:1200vh;
+    background-color:#efedee;
+  
+  }
+  /**/
+  
+  .img-box > img {
+    width:100%;
+    display:block;
+  }
+  
+  .con { 
+    margin:0 auto;
+  }
+  
+  .cell { 
+    float:left;
+    box-sizing:border-box;
+  }
+  
+  .row::after { 
+    content:"";
+    display:block;
+    clear:both;
+  }
+  
+  .right { 
+    float:right;
+    box-sizing:border-box;
+  }
+  
+  /**/
+  :root {
+    --site-width:1400px;
+  }
+  
+  .con {
+    width:var(--site-width);
+  }
+  
+  .con-min-width {
+    min-width:var(--site-width);
+  }
+  
+  
+  .top-bar { 
+    background-color:red;
+    height:100px;
+  
+  }
+  
+  .logo { 
+    margin:22px;
+  }
+  
+  
+  .top-menu-bar { 
+    margin:40px 20px 0;
+    width:750px;
+  }
+  
+  .top-menu-bar > ul { 
+    display:flex;
+    justify-content:center;
+  
+  }
+  
+  .top-menu-bar > ul > li > a {
+    font-size:22px;
+    margin:20px;
+    text-align:center;
+    color:white;
+    padding:10px;
+  }
+  
+  .top-menu-box { 
+    position:relative;
+  }
+  
+  .login-box {
+    margin:40px 50px;
+  }
+  
+  
+  .login-box > ul > li > a {
+    font-size:17px;
+    margin:15px;
+    color:white;
+  }
+  
+  .login-box > ul > li >  a > i {
+    font-size:20px;
+  }
+  
+  
+  /*Image*/
+  
+  .section-1 > .con > .my-slider > .swiper-container { 
+    width:100%;
+    top:-8px;
+  }
+  
+  
+  .swiper-pagination-bullet{ 
+    margin:0 10px;
+  
+  }
+  
+  .pagination-box { 
+    height:100px;
+  }
+  
+  .swiper-pagination{
+    left:47.5%;
+    transform:translatex(-50%);
+  }
+  /*이미지 사이즈 */
+  
+  .section-2 { 
+    height:700px;
+  }
+  
+  .section-2 .my-slider { 
+  
+    margin-top:200px;
+  
+  }
+  
+  
+  
+  /*이미지 확대 효과 */
+  
+  .swiper-slide.swiper-slide-visible.swiper-slide-active > .img-box{
+    transform:scale(0.8);
+  }
+  
+  .swiper-slide.swiper-slide-visible.swiper-slide-next > .img-box{
+    transform:scale(1.2);
+    transition:transform 1s;
+  }
+  
+  .swiper-slide.swiper-slide-visible> .img-box{
+    transform:scale(0.8);
+  }
+  
+  
+  /*김연아사진 화살표*/
+  
+  .section-2 { 
+    position:relative;
+  }
+  
+  .swiper-button-prev::after
+  { 
+    color:white;
+    position:absolute;
+    left:420px;
+    font-weight:bold;
+  }
+  
+  .swiper-button-next::after { 
+    color:white;
+    position:absolute;
+    right:420px;
+    font-weight:bold;
+  }
+  
+  
+  /*코카콜라 브랜드 글씨*/
+  
+  .section-2 > .con > .menu-box { 
+    text-align:center;
+  }
+  
+  .section-2 > .con > .menu-box > span {
+    display:block;
+  }
+  
+  /**/
+  
+  .year-menu { 
+    width:100%;
+    height:1000px;
+    position:relative;
+  }
+  
+  .year-menu-box .year-menu-bar {
+  
+    height:500px;
+    margin-top:200px;
+    padding-top:200px;
+  }
+  
+  
+  /*bottle*/
+  .bottle {
+    width:9%;
+    left:43%;
+  }
+  
+  .swiper-container { 
+    margin-top:-200px;
+  }
+  
+  /*히스토리 라인 */
+  .year-menu-box { 
+    position:relative;
+  }
+  
+  
+  .history-line > .img-box { 
+    position:absolute;
+    top:30%;
+  }
+  
+  
+  
+  
+  /*히스토리 연도 숫자*/
+  .counter-value { 
+    font-size:14rem;
+    text-align:center;
+    float:left;
+    margin-left:26%;
+    z-index:10;
+    position:absolute;
+    top:50px;
+  }
+  
+  
+  .counter-value:nth-child(2) {
+    float:right;
+    position:absolute;
+    left:420px;
+    z-index:10;
+  
+  }
+  
+  
+  .year-menu-bar > #counter { 
+    width:100%;
+    position:absolute;
+    top:50px;
+  }
+  
+  
+  /*히스토리 페이지네이션*/
+  
+  .my-slider-3 > .swiper-pagination { 
+  
+    width:1400px; 
+    position:absolute;
+    left:0;
+  
+  }
+  
+  
+  .my-slider-3 > .swiper-pagination > span { 
+    margin:0 90px;
+    background-color:red;
+  }
+  
+  
+  /*히스토리 년도*/
+  .year-box > img { 
+    width:98%;
+    margin:0 auto;
+    display:block;
+    margin-top:-10px;
+    margin-right:-10px;
+  }
+  
+  
+  
+  /*보검이벤트 파트*/
+  
+  
+  .bogum .submenu > img { 
+    padding-top:150px;
+    position:absolute;
+    left:50%;
+    transform:translateX(-50%);
+    width:30%;
+  }
+  
+  
+  .bogum { 
+    height:1200px;
+    border:1px solid red;
+    position:relative;
+    left:50%;
+    transform:translateX(-50%)
+  }
+  
+  
+  
+  .bogum .circle-box > img {
+    position:absolute;
+    top:40%;
+    width:1000px;
+    left:50%;
+    transform:translateX(-50%)
+  
+  }
+  
+  .bogumpic > img {
+    z-index:10;
+    position:absolute;
+    width:400px;
+    bottom:200px;
+    left:50%;
+    transform:translateX(-50%);
+  }
+  
+  .event-text > img { 
+    width:270px;
+    position:absolute;
+    top:480px;
+    left:17%;
+    z-index:11;
+  }
+  
+  /*비디오 파트*/
+  .video { 
+    height:1200px;
+    position:relative;
+    border:1px solid;
+    margin-top:100px;
+  }
+  
+  .video > .submenu {
+    padding-top:150px;
+    position:absolute;
+    left:50%;
+    transform:translateX(-50%);
+    width:30%;
+  }
+  
+  .video-box > .red-box { 
+    width:100%;
+    height:780px;
+    background:red;
+    top:480px;
+    position:absolute;
+  }
+  
+  /*last-part*/
+  
+  
+  .bottom > img { 
+   display:block;
+    margin:0 auto;
+  
+  }
