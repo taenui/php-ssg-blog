@@ -1,6 +1,6 @@
 .section {
     position: relative;
-    border: 1px solid blue;
+    
     height: 150px;
     width: 100%;
 }
@@ -8,8 +8,8 @@
 .logo {
     position: absolute;
     top: 120px;
-    left: 330px;
-    border: 1px solid red;
+    left: 20%;
+    
 }
 
 
