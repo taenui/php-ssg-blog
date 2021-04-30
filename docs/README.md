@@ -1,1 +1,0 @@
-# php-ssg-blog
