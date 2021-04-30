@@ -1,3 +1,18 @@
+.section {
+    position: relative;
+    height: 150px;
+    width: 100%;
+}
+
+.logo {
+    position: absolute;
+    top: 120px;
+    left: 20%;
+    
+}
+
+
+
 .menu-bar__row>li>a {
     color:black;
 }
