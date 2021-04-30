@@ -96,7 +96,7 @@ $pageCode = "be";
 			</div>
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/paint.png)">
+					<div class="front" style="background-image: url(https://github.com/taenui/php-ssg-blog/blob/master/pf/img/behind/paint.png?raw=true)">
 						<div class="inner">
 							<p></p>
               <span>꾸준한 그림연습</span>
