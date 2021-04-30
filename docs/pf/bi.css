@@ -11,19 +11,31 @@ h1 {
     font-size: 2rem;
     font-family: 'Montserrat';
     font-weight: normal;
-    color:white;
+    color: white;
     text-align: center;
     margin: 2rem 0;
 }
 
+
+.section {
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    top: 120px;
+    left: 330px;
+}
+
+/*전광판*/
 .wrapper {
     width: 90%;
-   left: 50%;
-   transform: translateX(-50%);
+    left: 50%;
+    transform: translateX(-50%);
     max-width: 80rem;
     margin-top: 180px;
     position: absolute;
-    top:0;
+    top: 0;
 }
 
 .cols {
@@ -62,15 +74,15 @@ h1 {
 }
 
 .back {
- background: white;
- color:black;
- font-size: 15px;
- position: absolute;
- top: 0;
- left: 0;
- width: 100%;
- opacity: .8;
- 
+    background: white;
+    color: black;
+    font-size: 15px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: .9;
+
 
 }
 
@@ -83,8 +95,8 @@ h1 {
     height: 100%;
     content: '';
     display: block;
-    
-    background-color:;
+
+    background-color: ;
     backface-visibility: hidden;
     border-radius: 10px;
 }
@@ -110,7 +122,7 @@ h1 {
     perspective: inherit;
     z-index: 2;
 
-    
+
 }
 
 
@@ -144,24 +156,23 @@ h1 {
 
 .front .inner p {
     font-size: 1.5rem;
-    margin-top:8rem;
+    margin-top: 8rem;
     position: relative;
-    color:black;
-    font-weight:bolder;
-s
-
+    color: black;
+    font-weight: bolder;
+    s
 }
 
 
 .front .inner span {
-    color:black;
+    color: black;
     background-color: white;
-    border-radius: 5% ;
+    border-radius: 5%;
     font-weight: 200;
     font-size: 18px;
     margin-top: -100px;
-    padding:2px 8px;
-    border:1px solid;
+    padding: 2px 8px;
+    border: 1px solid;
 }
 
 @media screen and (max-width: 64rem) {
@@ -189,6 +200,6 @@ s
 }
 
 
-.menu-bar__row > li > a {
+.menu-bar__row>li>a {
     color: white;
 }
