@@ -21,7 +21,7 @@ $pageCode = "be";
   <div class="cols">
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/Sites/pf/img/behind/award.jpg)">
+					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/award.jpg)">
 						<div class="inner">
 							<p></p>
               <span>NCS 능력 이수</span>
@@ -66,7 +66,7 @@ $pageCode = "be";
 			</div>
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/Sites/pf/img/behind/leather.JPG">
+					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/leather.JPG">
 						<div class="inner">
 							<p></p>
               <span>취미생활</span>
@@ -89,14 +89,14 @@ $pageCode = "be";
 					</div>
 					<div class="back">
 						<div class="inner">
-							<p>미국에서의 2주 간의 자원봉사, 호주 레스토랑에서의 근무 등의 경험을 쌓았습니다.</p>
+							<p>미국에서의 2주 간의 자원봉사, 호주 레스토랑에서의 근무 등의 경험을 쌓았ㅈㅂ습니다.</p>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/Sites/pf/img/behind/paint.png)">
+					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/paint.png)">
 						<div class="inner">
 							<p></p>
               <span>꾸준한 그림연습</span>
