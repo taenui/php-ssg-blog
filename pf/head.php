@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-    <link rel="stylesheet" href="common1.css">
+    <link rel="stylesheet" href="common.css">
     <script src="common.js" defer></script>
 </head>
 

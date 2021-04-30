@@ -18,6 +18,7 @@ $pageCode = "be";
         <div class="sections">
             <div class="section section-1"><img src="https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/background.jpg" alt=""></div>
 						
+</div>
 
 <div class="wrapper">
   <h1>[ 웹디자이너 김태늬가 되기까지 ]</h1>

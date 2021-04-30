@@ -3,7 +3,7 @@ $pageTitle = "HOME";
 $pageCode = "home";
 ?>
 <?php require_once "head.php"; ?>
-<link rel="stylesheet" href="index1.css">
+<link rel="stylesheet" href="index.css">
 <script src="index.js" defer></script>
 
 
