@@ -31,8 +31,8 @@ $pageCode = "map";
                         </div>
                         <div class="clearfix"></div>
                         <div data-swiper-parallax="500" class="slide-btns">
-                            <a href="" class="theme-btn-s2">Process</a>
-                            <a href="https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/map/coke-work.jpg" class="theme-btn-s3"><i class="fas fa-chevron-circle-right"></i> Get Info</a>
+                            <a href="https://github.com/taenui/php-ssg-blog/blob/master/pf/img/map/coke-work.jpg?raw=true" class="theme-btn-s2">Process</a>
+                            <a href="" class="theme-btn-s3"><i class="fas fa-chevron-circle-right"></i> Get Info</a>
 
                         </div>
 
