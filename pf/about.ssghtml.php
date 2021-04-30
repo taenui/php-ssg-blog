@@ -11,9 +11,6 @@ $pageCode = "about";
 <script src="about.js" defer></script>
 
 
-<div class="section">
- <div class="logo"><a href="index.ssghtml.php"><img src="https://cdn.jsdelivr.net/gh/taenui/pofol/logo.png" alt=""></a></div>
-</div>
 
 
 <div class="popup popup-2">

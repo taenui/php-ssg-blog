@@ -20,8 +20,7 @@ $pageCode = "home";
 
 <div class="site-wrap">
     <div class="sections">
-        <div class="logo"><a href="index.ssghtml.php"><img src="https://cdn.jsdelivr.net/gh/taenui/pofol/logo-white.png" alt=""></a></div>
-      <div class="section section-1"><img src="https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/home/bn_main.png?raw=true" alt=""></div>
+    <div class="section section-1"><img src="https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/home/bn_main.png?raw=true" alt=""></div>
     </div>
         
 </div>
