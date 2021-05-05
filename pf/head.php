@@ -23,10 +23,10 @@
                         <ul class="menu-bar__row">
                             <li class="cell <?=$pageCode == 'home' ? 'active' : ''?>"><a href="index.ssghtml.php">Home</a></li>
                             <li class="cell <?=$pageCode == 'about' ? 'active' : ''?>"><a href="about.ssghtml.php">About Artist</a></li>
-                            <li class="cell <?=$pageCode == 'map' ? 'active' : ''?>"><a href="map.ssghtml.php">Map</a></li>
-                            <li class="cell <?=$pageCode == 'be' ? 'active' : ''?>"><a href="bi.ssghtml.php">Behind</a></li>
+                            <li class="cell <?=$pageCode == 'map' ? 'active' : ''?>"><a href="map.ssghtml.php">Portfolio</a></li>
+                            <li class="cell <?=$pageCode == 'be' ? 'active' : ''?>"><a href="bi.ssghtml.php">Experience</a></li>
                         </ul>
                     </div>
-                </div>
-            </div>
+                </div>  
+            </div>   
         </div>
