@@ -24,7 +24,7 @@ $pageCode = "about";
         
         
         <div class="intro">
-          <div class="img-box"><img src="https://cdn.jsdelivr.net/gh/taenui/pofol/about.png" alt=""></div>
+          <div class="img-box"><img src="https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/about/bn-main.png" alt=""></div>
           
         </div>
         
