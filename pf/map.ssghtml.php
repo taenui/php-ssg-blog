@@ -65,6 +65,38 @@ $pageCode = "map";
                 <!-- end slide-inner -->
             </div>
             <!-- end swiper-slide -->
+
+
+            <div class="swiper-slide">
+                <div class="slide-inner slide-bg-image"
+                    data-background="https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/map/bn_main_2.png">
+                    <div class="container">
+                        <div data-swiper-parallax="300" class="slide-title">
+                            <h2></h2>
+                        </div>
+                        <div data-swiper-parallax="400" class="slide-text">
+                            <p></p>
+                        </div>
+                        <div class="clearfix"></div>
+                        <div data-swiper-parallax="500" class="slide-btnss">
+                            <a href="sool.html" class="theme-btn-s2">Process</a>
+
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- end slide-inner -->
+            </div>
+            <!-- end swiper-slide -->
+
+
+
+
+
+
         </div>
         <!-- end swiper-wrapper -->
 
