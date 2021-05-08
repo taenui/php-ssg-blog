@@ -79,7 +79,7 @@ $pageCode = "map";
                         </div>
                         <div class="clearfix"></div>
                         <div data-swiper-parallax="500" class="slide-btnss">
-                            <a href="pf/mobile/index.html" class="theme-btn-s2">Process</a>
+                            <a href="php-ssg-blog/pf/mobile/index.html" class="theme-btn-s2">Process</a>
 
 
                         </div>
