@@ -4,7 +4,7 @@ gsap.registerPlugin(ScrollTrigger);
 const tl1 = gsap.timeline({
   scrollTrigger: {
     trigger:".part3 .circle-text",
-    markers:true,
+    markers:flase,
    start:"top 20%",
     end:"bottom top",
     toggleActions: "restart none none none"
@@ -23,7 +23,7 @@ tl1.from('.part3 .circle-text > img ', {
 const tl2 = gsap.timeline({
   scrollTrigger: {
     trigger:".part4",
-    markers:true,
+    markers:flase,
    start:"top 20%",
     end:"bottom top",
     toggleActions: "restart none none none"
@@ -41,7 +41,7 @@ tl2.from('.part4 > .part4-text', {
 const tl3 = gsap.timeline({
   scrollTrigger: {
     trigger:".part4 > .about",
-    markers:true,
+    markers:flase,
    start:"top 20%",
     end:"bottom top",
     toggleActions: "restart none none none"
@@ -60,7 +60,7 @@ tl3.from('.part4 .about-text', {
 const tl4 = gsap.timeline({
   scrollTrigger: {
     trigger:".part4 > .port-text",
-    markers:true,
+    markers:flase,
    start:"top 20%",
     end:"bottom top",
     toggleActions: "restart none none none"
@@ -77,7 +77,7 @@ tl3.from('.part4 .port-text', {
 const tl5 = gsap.timeline({
   scrollTrigger: {
     trigger:".part4 .Ex",
-    markers:true,
+    markers:flase,
    start:"top 20%",
     end:"bottom top",
     toggleActions: "restart none none none"
