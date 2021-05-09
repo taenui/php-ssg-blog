@@ -3,7 +3,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const tl1 = gsap.timeline({
   scrollTrigger: {
-    trigger:".part3",
+    trigger:".part3 .circle-text",
     markers:true,
    start:"top 20%",
     end:"bottom top",
@@ -12,7 +12,7 @@ const tl1 = gsap.timeline({
 });
 
 
-tl1.from('.part3 > .circle', {
+tl1.from('.part3 .circle-text > img ', {
   y: -100,
   opacity:0,
   duration: .8
@@ -59,7 +59,7 @@ tl3.from('.part4 .about-text', {
 
 const tl4 = gsap.timeline({
   scrollTrigger: {
-    trigger:".part4 > .port",
+    trigger:".part4 > .port-text",
     markers:true,
    start:"top 20%",
     end:"bottom top",
