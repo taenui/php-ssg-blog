@@ -76,7 +76,7 @@ tl3.from('.part4 .port-text', {
 
 const tl5 = gsap.timeline({
   scrollTrigger: {
-    trigger:".part4 > .port",
+    trigger:".part4 .Ex",
     markers:true,
    start:"top 20%",
     end:"bottom top",
