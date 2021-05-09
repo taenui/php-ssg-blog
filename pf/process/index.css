@@ -290,7 +290,7 @@ img {
     position: absolute;
     text-align: center;
     border: 1px solid white;
-    padding:5px;
+    padding:8px;
     border-radius: 5px 5px;
     left: 50%;
     transform: translateX(-50%);
@@ -299,5 +299,4 @@ img {
 
 .last-part a {
 font-size: 25px;   
-
 }
