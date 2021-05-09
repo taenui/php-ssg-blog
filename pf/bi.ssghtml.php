@@ -130,7 +130,7 @@ $pageCode = "be";
 			</div>
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://unsplash.it/508/508/)">
+					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/design.png)">
 						<div class="inner">
 							<p></p>
               <span>디자인 창작</span>
