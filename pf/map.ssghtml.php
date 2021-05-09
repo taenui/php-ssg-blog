@@ -79,7 +79,7 @@ $pageCode = "map";
                         </div>
                         <div class="clearfix"></div>
                         <div data-swiper-parallax="500" class="slide-btnsss">
-                        <a href="pf/process/index.html" class="theme-btn-s2">Process</a>
+                        <a href="process/index.html" class="theme-btn-s2">Process</a>
                         
 
 
