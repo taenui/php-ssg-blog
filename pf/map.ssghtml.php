@@ -69,7 +69,7 @@ $pageCode = "map";
 
             <div class="swiper-slide">
                 <div class="slide-inner slide-bg-image"
-                    data-background="https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/map/bn_main_2.png">
+                    data-background="https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/map/port-process-img1.png">
                     <div class="container">
                         <div data-swiper-parallax="300" class="slide-title">
                             <h2></h2>
