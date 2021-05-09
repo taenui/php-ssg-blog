@@ -31,7 +31,7 @@ $pageCode = "map";
                         <div class="clearfix"></div>
                         <div data-swiper-parallax="500" class="slide-btns">
                             <a href="https://b.a-nui.com/pf/coke/index.html" class="theme-btn-s2">Web-site</a>
-                            <a href="" class="theme-btn-s3"><i class="fas fa-chevron-circle-right"></i> Get Info</a>
+                            <a href="" class="theme-btn-s3"><i class="fas fa-chevron-circle-right"></i></a>
 
                         </div>
 
@@ -69,7 +69,7 @@ $pageCode = "map";
 
             <div class="swiper-slide">
                 <div class="slide-inner slide-bg-image"
-                    data-background="https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/map/port-process-img1.png">
+                    data-background="https://github.com/taenui/php-ssg-blog/blob/master/pf/img/map/port-process-img1.png?raw=true">
                     <div class="container">
                         <div data-swiper-parallax="300" class="slide-title">
                             <h2></h2>
@@ -78,8 +78,8 @@ $pageCode = "map";
                             <p></p>
                         </div>
                         <div class="clearfix"></div>
-                        <div data-swiper-parallax="500" class="slide-btnss">
-                            <a href="" class="theme-btn-s2">Process</a>
+                        <div data-swiper-parallax="500" class="slide-btnsss">
+                        <a href="mobile/index.html" class="theme-btn-s2">Process</a>
 
 
                         </div>
