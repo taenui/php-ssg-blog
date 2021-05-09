@@ -2,6 +2,7 @@ body, ul, li {
     margin: 0;
     padding: 0;
     list-style:none;
+    
   }
   
   a{ 
@@ -30,16 +31,22 @@ body, ul, li {
   .portfolio { 
       margin: 0 auto;
       width: 1200px;
+      overflow: hidden;
   }
   
   
   
   .part1 { 
       width:100%;
+      height:900px;
+      overflow: hidden;
+      border: 3px solid;
+      margin-top:-100px;
   }
   
   .part1 > img { 
       width:100%;
+      
   }
   
   /* part2 */
@@ -168,8 +175,10 @@ body, ul, li {
   } 
   
   .part4 .port .img-box img:nth-child(2) {
-     width:320px;
-     margin-top:-345px;
+     width:490px;
+     margin-top:-352px;
+     margin-right:-180px;
+     ;
   } 
   
   
@@ -179,7 +188,8 @@ body, ul, li {
       margin-top: 100px;
       margin-left:118px;
   }
-  
+
+ 
   
   /*Ex part*/
   
@@ -213,3 +223,4 @@ body, ul, li {
       width:100%;
       height: 250px;
   }
+
