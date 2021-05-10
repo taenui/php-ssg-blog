@@ -115,7 +115,7 @@ $pageCode = "be";
 			</div>
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://unsplash.it/506/506/)">
+					<div class="front" style="background-image: url(https://github.com/taenui/php-ssg-blog/blob/master/pf/img/behind/parttime.png?raw=true)">
 						<div class="inner">
 							<p></p>
               <span>10년의 다양한 알바 경험</span>
