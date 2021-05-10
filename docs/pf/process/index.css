@@ -1,0 +1,301 @@
+body,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+img {
+    display: block;
+    width: 100%;
+}
+
+/*노말 끝*/
+
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+/**/
+.portfolio {
+    margin: 0 auto;
+    width: 1200px;
+    overflow: hidden;
+}
+
+
+
+.part1 {
+    width: 100%;
+    height: 900px;
+    overflow: hidden;
+    margin-top: -100px;
+}
+
+.part1>img {
+    width: 100%;
+
+}
+
+/* part2 */
+.part2 {
+    background: #f1f1f1;
+    height: 270px;
+
+}
+
+.box {
+    width: 80%;
+    height: 30%;
+    margin: 0 auto;
+    display: block;
+    padding-top: 100px;
+}
+
+.part2 .left {
+    width: 15%;
+}
+
+.part2 .right {
+    width: 75%;
+}
+
+/* part3 시작 */
+
+.part3 {
+    width: 100%;
+    height: 1200px;
+    position: relative;
+
+}
+
+.part3 .left {
+    width: 13%;
+}
+
+.part3 .right {
+    width: 75%;
+}
+
+.part3 .circle {
+
+    width: 100%;
+
+}
+
+.part3 .circle>img {
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+.part3 .circle-text {
+    width: 90%;
+    height: 60%;
+    position: absolute;
+    top: 300px;
+    left: 50%;
+    transform: translateX(-50%);
+
+
+}
+
+
+.part3 .circle-text img {
+    width: 200px;
+}
+
+.part3 .circle-text .first {
+    position: absolute;
+    width: 28%;
+    top: 20%;
+    left: -42px;
+
+}
+
+.part3 .circle-text .sec {
+    position: absolute;
+    right: 75px;
+    width: 18%;
+    top: 24%;
+
+}
+
+.part3 .circle-text .thi {
+    position: absolute;
+    bottom: 5%;
+    width: 13%;
+    left: 105px;
+
+
+}
+
+.part3 .circle-text .four {
+    position: absolute;
+    bottom: 5%;
+    width: 20%;
+    right: 25px;
+
+}
+
+/*part3 끝*/
+
+
+
+
+/*part4 시작*/
+
+.part4 {
+    width: 100%;
+    height: 3250px;
+    background: #f1f1f1;
+}
+
+
+.part4 .left {
+    width: 10%;
+}
+
+.part4 .right {
+    width: 75%;
+    margin-top: 5px;
+}
+
+
+
+.part4-text {
+    height: 10%;
+}
+
+
+/*part4 main*/
+
+
+.part4 .main {
+    height: 700px;
+    margin-top: -150px;
+
+}
+
+.part4 .main img {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.part4 .about {
+    height: 700px;
+
+}
+
+.part4 .about .img-box img:first-child {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.part4 .about .img-box img:nth-child(2) {
+    width: 320px;
+    margin-top: -345px;
+}
+
+
+.part4 .about-text {
+    width: 750px;
+    margin-top: 100px;
+    margin-left: 118px;
+}
+
+
+/*port 부분*/
+
+.part4 .port {
+    height: 700px;
+
+    margin-top: 100px;
+}
+
+.part4 .port .img-box img:first-child {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.part4 .port .img-box img:nth-child(2) {
+    width: 490px;
+    margin-top: -352px;
+    margin-right: -180px;
+    ;
+}
+
+
+
+.part4 .port-text {
+    width: 750px;
+    margin-top: 100px;
+    margin-left: 118px;
+}
+
+
+
+/*Ex part*/
+
+.part4 .Ex {
+    height: 700px;
+
+    margin-top: 150px;
+}
+
+.part4 .Ex .img-box img:first-child {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.part4 .Ex .img-box img:nth-child(2) {
+    width: 320px;
+    margin-top: -345px;
+}
+
+
+
+.part4 .Ex-text {
+    width: 750px;
+    margin-top: 100px;
+    margin-left: 118px;
+}
+
+
+
+/*last part*/
+
+.last-part {
+    background: #FC8B3F;
+    width: 100%;
+    height: 250px;
+    position: relative;
+}
+
+.last-text {
+    position: absolute;
+    text-align: center;
+    border: 1px solid white;
+    padding:8px;
+    border-radius: 5px 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    top:45%;
+}
+
+.last-part a {
+font-size: 25px;   
+}
