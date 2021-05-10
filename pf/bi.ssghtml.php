@@ -70,15 +70,15 @@ $pageCode = "be";
 			</div>
 			<div class="col" ontouchstart="this.classList.toggle('hover');">
 				<div class="container">
-					<div class="front" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/leather.JPG">
+					<div class="front" style="background-image: url(https://github.com/taenui/php-ssg-blog/blob/master/pf/img/behind/sejong.jpg?raw=true">
 						<div class="inner">
 							<p></p>
-              <span>취미생활</span>
+              <span>세종소방 로고작업</span>
 						</div>
 					</div>
 					<div class="back">
 						<div class="inner">
-							<p>독창성과 디자인감각을 살려 가죽공예, 목공예 등의 다양한 공예를 했습니다.</p>
+							<p> 세종 소방서 단체티 로고 작업을 하였습니다. </p>
 						</div>
 					</div>
 				</div>
