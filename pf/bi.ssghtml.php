@@ -135,9 +135,9 @@ $pageCode = "be";
 							<p></p>
               <span>디자인 창작</span>
 						</div>
-					</div>
+					</div> 
 					<div class="back">
-						<div class="inner">
+						<div class="inner" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/design.png)">
 							<p>개인적인 모작과 창작 작업을 통해 디자인스킬 향상에 노력을 기울였습니다.<br><br><a href=" https://a-nui.tistory.com" style="text-decoration:underline;">Click</a></p>
 						</div>
 					</div>
