@@ -77,7 +77,7 @@ $pageCode = "be";
 						</div>
 					</div>
 					<div class="back">
-						<div class="inner" style="background-image: url(https://cdn.jsdelivr.net/gh/taenui/php-ssg-blog/pf/img/behind/sejong-logo.png)">
+						<div class="inner" style="background-image: url(https://github.com/taenui/php-ssg-blog/blob/master/pf/img/behind/sejong-logo.png?raw=true)">
 							<p> 세종 소방서 단체티 로고 작업을 하였습니다. </p>
 						</div>
 					</div>
